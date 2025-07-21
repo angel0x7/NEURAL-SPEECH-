@@ -1,4 +1,4 @@
-# Projet Java ING3 2025 : Neural Speech
+# Projet Arduino ING3 2025 : Neural Speech
 
 Liens Utiles :  [**Présentation**](Powerpoint_projet_NEURAL_SPEECH.pdf)
 
